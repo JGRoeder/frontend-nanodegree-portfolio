@@ -1,8 +1,8 @@
 {
-  "name": "northdort",
+  "name": "fend_portfolio",
   "version": "1.0.0",
-  "description": "Web front-end created for North Dort Warehouses ",
-  "main": "/dist/index.html",
+  "description": "Submission for Udacity Front-End Web Developer Nanodegree Project 1",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
